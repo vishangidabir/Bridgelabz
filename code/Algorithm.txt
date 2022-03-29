@@ -1,0 +1,6 @@
+step 1: Make a list of file
+step 2: Iterate list of files in a directory
+step 3: Split each file name by filtering file names using awk command
+step 4: Store each file name & file type for creating folder
+step 5: Make directory as per stored file names
+step 6: also copy list of file at output destination
